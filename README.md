@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jadon!
 - 👀 I’m interested in mobile and web development.
-- 🌱 I’m currently learning React and React Native with TypeScript, Flutter, and Swift.
+- 🌱 I’m focused on React and React Native with TypeScript, Remix, and more!
 - 📫 Reach me on Linkedin. Let's [connect!](https://www.linkedin.com/in/jadon-scholes-a97110172/) 
 
 <!---
