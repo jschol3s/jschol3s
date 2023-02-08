@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jadon!
-- 👀 I’m interested in mobile and web development.
-- 🌱 I’m focused on React and React Native with TypeScript, Remix, and more!
+- 👀 I’m a full stack web and mobile developer.
 - 📫 Reach me on Linkedin. Let's [connect!](https://www.linkedin.com/in/jadon-scholes-a97110172/) 
 
 <!---
